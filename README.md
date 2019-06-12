@@ -17,6 +17,7 @@ This pixel-value is an integer between 0 and 255.
 
 # Labels
 The possible labels are:
+
 0. T-shirt/top
 1. Trouser
 2. Pullover
